@@ -1,2 +1,2 @@
 # Salt
-
+Security salt
